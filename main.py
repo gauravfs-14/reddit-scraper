@@ -33,6 +33,17 @@ SEARCH_TERMS = [
     "Tesla self-driving",
     "Tesla AI Day",
     "FSD subscription"
+    "Tesla AI",
+    "Tesla AI software",
+    "Tesla AI hardware",
+    "Tesla AI training",
+    "Tesla AI model",
+    "Tesla AI dataset",
+    "Tesla Features",
+    "Tesla software update",
+    "Tesla software release",
+    "Tesla software version",
+    "Tesla software patch",
 ]
 SUBREDDITS = ["TeslaModel3", "TeslaLounge", "teslamotors", "TeslaModelY", "teslamotors", "SelfDrivingCars"]
 POST_LIMIT = 1000
