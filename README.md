@@ -55,6 +55,16 @@ python main.py
 
 The scraper will search for the specified terms in the defined subreddits and save the posts to a SQLite database named `reddit_posts.db`.
 
+### Optional: Export to Excel
+
+To convert the SQLite database to Excel format, you can use the following command:
+
+```bash
+python sqlite_to_xlx.py
+```
+
+This will create an Excel file named `.xlsx` containing all the scraped posts.
+
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.

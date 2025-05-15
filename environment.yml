@@ -5,7 +5,9 @@ dependencies:
   - python=3.8
   - sqlite
   - tqdm
+  - pandas
   - pip
   - pip:
       - python-dotenv
       - praw
+      - openpyxl
