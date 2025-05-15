@@ -1,0 +1,11 @@
+name: reddit-scraper
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - sqlite
+  - tqdm
+  - pip
+  - pip:
+      - python-dotenv
+      - praw
